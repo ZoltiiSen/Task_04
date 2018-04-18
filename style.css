@@ -1,0 +1,9 @@
+html, body, .fou {
+  height: 100%;
+}
+.fou {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 180px;
+}
